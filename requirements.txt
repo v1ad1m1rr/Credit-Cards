@@ -1,0 +1,14 @@
+pandas
+plotly
+pathlib
+scipy
+pillow
+scikit_learn
+statsmodels
+streamlit
+streamlit-option-menu
+category_encoders
+numpy
+seaborn
+statsmodels
+rich
